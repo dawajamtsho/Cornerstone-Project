@@ -181,8 +181,7 @@ with st.sidebar:
 
 # ==================== MAIN HEADER ====================
 st.markdown(
-    '<div class="main-header">⚡ IIT Delhi - ISA 
-    Energy MIS Dashboard v4.0</div>',
+    '<div class="main-header">⚡ IIT Delhi - ISA Energy MIS Dashboard v4.0</div>',
     unsafe_allow_html=True
 )
 
