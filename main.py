@@ -17,9 +17,7 @@ from api_clients import (
     ENTSOEClient, ElectricityMapsClient, IEAClient, 
     WorldBankClient, UNComtradeClient, validate_api_tokens
 )
-from secondary_scrapers import (
-    InterconnectionScraper, EnergyNewsScraper, CommodityPriceScraper, NewsAPIClient
-)
+
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
