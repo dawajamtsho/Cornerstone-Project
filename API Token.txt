@@ -1,0 +1,8 @@
+ENTSO-E Token
+f6fafc8c-9af8-4e6c-a932-dce2c77ff3f6
+
+Electricity Maps Token
+AUGVjnZHlpOwXrDnlUqw
+
+NewsAPI.org key
+4409c30805a54709927f5c09c9361f94

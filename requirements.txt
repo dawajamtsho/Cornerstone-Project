@@ -1,0 +1,28 @@
+# Core Framework
+streamlit
+streamlit-folium
+
+# Data Processing
+pandas
+numpy
+
+# API & Web
+requests
+beautifulsoup4
+lxml
+urllib3
+
+# Visualization
+plotly
+folium
+
+# ENTSO-E XML Parsing
+defusedxml
+
+# Utilities
+python-dateutil
+pytz
+
+# Optional: Advanced features
+# pandas-datareader
+# openpyxl
