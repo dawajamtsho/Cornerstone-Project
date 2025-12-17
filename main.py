@@ -24,7 +24,9 @@ logger = logging.getLogger(__name__)
 
 # ==================== PAGE CONFIG ====================
 st.set_page_config(
-    page_title="Energy MIS Dashboard v4.0",
+    page_title="
+    IIT Delhi - ISA
+    Energy MIS Dashboard v4.0",
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="expanded"
